@@ -7,7 +7,7 @@
 <br/>
 <a href="https://github.com/blog666" target="_blank"><img src=https://img.shields.io/badge/GITHUB-black alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.blog666.github.io" target="_blank">
+<a href="https://blog666.github.io" target="_blank">
 <img src=https://img.shields.io/badge/BLOG-blue alt=facebook style="margin-bottom: 5px;" />
 </a>
 <a href="https://img.shields.io/badge/Email-%20akairiyo%40outlook.com-pink" target="_blank">
