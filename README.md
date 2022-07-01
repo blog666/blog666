@@ -19,7 +19,7 @@
 I am a virgin in computer science from China :cn: . If you want to contact me, please leave me a message!
 <br/>
 
-### 🔭 Interest
+### 🌱 Interest
 
 - **Network Architecture**
 - **Machine Learning**
