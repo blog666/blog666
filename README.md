@@ -13,7 +13,4 @@
 <a href="https://img.shields.io/badge/Email-%20akairiyo%40outlook.com-pink" target="_blank">
 <img src=https://img.shields.io/badge/Email-%20akairiyo%40outlook.com-pink alt=instagram style="margin-bottom: 5px;" />
 </a>
-
-### Hello!
-
 <br/>
