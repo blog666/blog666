@@ -14,12 +14,6 @@
 <img src=https://img.shields.io/badge/Email-%20akairiyo%40outlook.com-pink alt=instagram style="margin-bottom: 5px;" />
 </a>
 
-### Hello, I'm Kefei Song!
+### Hello!
 
-I am a virgin in computer science from China :cn: . If you want to contact me, please leave me a message!
 <br/>
-
-### 🌱 Interest
-
-- **Network Architecture**
-- **Machine Learning**
